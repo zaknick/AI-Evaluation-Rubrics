@@ -39,8 +39,6 @@ The rubrics in this repository are designed to:
 
 ## Status
 
-## Status
-
 **Current Version:** 0.1
 
 This repository is an active foundation repository within the **LLM Evaluation Lab**. Additional rubrics will be introduced as new evaluation domains are developed and validated.
