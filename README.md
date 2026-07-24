@@ -1,6 +1,6 @@
 # AI-Evaluation-Rubrics
 
-Standardized evaluation methodologies used throughout the **LLM Evaluation Lab**.
+Standardized evaluation rubrics and methodologies used throughout the **LLM Evaluation Lab**.
 
 This repository contains the scoring systems, evaluation templates, severity scales, and reviewer guidance used across all evaluation projects.
 
@@ -12,15 +12,15 @@ The rubrics in this repository are designed to:
 
 - Standardize AI evaluations across multiple models
 - Improve consistency between independent evaluators
-- Support evidence-based scoring and comparison
+- Support evidence-based scoring, comparison, and reproducibility
 - Separate evaluation methodology from individual evaluation results
 - Provide reusable scoring systems for future evaluation projects
 
 ## Available Rubrics
 
-- Universal Evaluation Rubric
-- Hallucination Rubric
-- Reasoning Rubric
+- [Universal Evaluation Rubric](Universal-Rubric.md)
+- [Hallucination Rubric](Hallucination-Rubric.md)
+- [Reasoning Rubric](Reasoning-Rubric.md)
 
 ## Planned Rubrics
 
@@ -39,10 +39,12 @@ The rubrics in this repository are designed to:
 
 ## Status
 
-**Version:** 0.1
+## Status
 
-This repository serves as a foundation of the **LLM Evaluation Lab**. Additional rubrics will be added as new evaluation projects are developed.
+**Current Version:** 0.1
+
+This repository is an active foundation repository within the **LLM Evaluation Lab**. Additional rubrics will be introduced as new evaluation domains are developed and validated.
 
 ## License
 
-A project license will be added before Version 1.0 to define reuse and attribution requirements.
+A license will be added before the repository reaches Version 1.0 to define reuse and attribution requirements.
