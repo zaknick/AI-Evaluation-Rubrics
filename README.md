@@ -47,4 +47,6 @@ This repository serves as the methodological foundation of the **LLM Evaluation 
 
 ## License
 
-A license will be added before the repository reaches Version 1.0 to define reuse and attribution requirements.
+This project is licensed under the **MIT License**.
+
+The MIT License permits reuse, modification, and distribution with attribution while preserving the original copyright notice. See the [LICENSE](LICENSE) file for details.
