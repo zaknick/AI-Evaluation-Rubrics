@@ -1,5 +1,6 @@
 # AI-Evaluation-Rubrics
 
+
 Standardized evaluation rubrics and methodologies used throughout the **LLM Evaluation Lab**.
 
 This repository contains the scoring systems, evaluation templates, severity scales, and reviewer guidance used across all evaluation projects.
@@ -40,6 +41,7 @@ The rubrics in this repository are designed to:
 ## Status
 
 **Current Version:** 0.1
+
 
 This repository serves as the methodological foundation of the **LLM Evaluation Lab**. Additional rubrics will be introduced as new evaluation domains are developed and validated.
 
